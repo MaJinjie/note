@@ -1,0 +1,5 @@
+`@[%][SEARCH_ENTRY_POINT/**/]GLOB_PATTERN[^SELECTOR[,SELECTOR]...]`
+
+# 1 options
+
+1.
